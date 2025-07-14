@@ -1,0 +1,2 @@
+# SharedServicesQ
+QAGI shared services
